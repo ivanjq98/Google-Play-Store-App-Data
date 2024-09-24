@@ -1,4 +1,4 @@
-**Dataset 1: Preprocessing and Machine Learning**
+*Dataset 1: Preprocessing and Machine Learning*
    This is split into 2 files: **Data Cleaning & Exploration** & **Machine Learning Model**
    
    In **Data Cleaning & Exploration**
